@@ -25,7 +25,7 @@ This project answers both using statistics, machine learning, clustering and dee
 <div align="center">
 
 
-▶️ **[Click here to watch the full project explanation](https://drive.google.com/file/d/1iJRABWNzPKJn2yp3UHd6aVEg6M1Oe0Yc/view?usp=sharing)**
+▶️ **[Click here to watch the full project explanation](https://drive.google.com/file/d/16qKammSlMF7r4__3mUMkZMMRfoyJv_-S/view?usp=sharing)**
 
 </div>
 
