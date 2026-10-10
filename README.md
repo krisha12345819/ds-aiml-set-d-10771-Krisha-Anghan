@@ -24,9 +24,8 @@ This project answers both using statistics, machine learning, clustering and dee
 
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-▶️ **[Click here to watch the full project explanation](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
+▶️ **[Click here to watch the full project explanation](https://drive.google.com/file/d/1iJRABWNzPKJn2yp3UHd6aVEg6M1Oe0Yc/view?usp=sharing)**
 
 </div>
 
