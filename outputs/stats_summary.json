@@ -1,0 +1,21 @@
+{
+  "descriptive_engagement": {
+    "n_observed": 192,
+    "mean": 51.00182291666667,
+    "median": 51.405,
+    "std_ddof1": 10.288960500356747
+  },
+  "inference": {
+    "n_G1": 84,
+    "n_G2": 108,
+    "mean_G1": 51.61488095238095,
+    "mean_G2": 50.525000000000006,
+    "welch_t": 0.7229961865721685,
+    "p_value": 0.47065078178032727,
+    "alpha": 0.05,
+    "reject_H0": false,
+    "ci95_overall_mean_low": 49.537187510732345,
+    "ci95_overall_mean_high": 52.46645832260099,
+    "n_for_ci": 192
+  }
+}

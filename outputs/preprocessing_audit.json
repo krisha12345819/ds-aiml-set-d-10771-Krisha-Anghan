@@ -1,0 +1,47 @@
+{
+  "raw_shape": [
+    305,
+    7
+  ],
+  "duplicates_removed": 5,
+  "unique_records": 300,
+  "missing_raw": {
+    "record_id": 0,
+    "visits": 16,
+    "recency": 15,
+    "engagement": 0,
+    "spend": 0,
+    "group": 0,
+    "response": 0
+  },
+  "partition_sizes": {
+    "fit": 192,
+    "validation": 48,
+    "test": 60
+  },
+  "transformed_shapes": {
+    "fit": [
+      192,
+      7
+    ],
+    "validation": [
+      48,
+      7
+    ],
+    "test": [
+      60,
+      7
+    ]
+  },
+  "feature_names": [
+    "visits",
+    "recency",
+    "engagement",
+    "spend",
+    "engineered_feature",
+    "group_G1",
+    "group_G2"
+  ],
+  "all_finite": true,
+  "engineered_feature": "engagement / (recency + 1), after imputation, before scaling"
+}
